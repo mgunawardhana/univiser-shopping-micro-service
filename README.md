@@ -1,6 +1,6 @@
 <div align="center">
 
-[![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-light.svg)](https://sonarcloud.io/summary/new_code?id=mgunawardhana_univiser-shopping-micro-service)
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=mgunawardhana_univiser-shopping-micro-service)](https://sonarcloud.io/summary/new_code?id=mgunawardhana_univiser-shopping-micro-service)
 
 </div>
 
